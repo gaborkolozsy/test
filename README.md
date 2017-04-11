@@ -6,6 +6,8 @@
 [![GitHub issues](https://img.shields.io/github/issues/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test/issues)
 [![license](https://img.shields.io/github/license/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test)
 <br>
+[![Code Climate](https://img.shields.io/codeclimate/github/gaborkolozsy/test.svg)](https://codeclimate.com/github/gaborkolozsy/test)
+<br>
 [![GitHub watchers](https://img.shields.io/github/watchers/gaborkolozsy/test.svg?style=social&label=Watch)](https://github.com/gaborkolozsy/test)
 [![GitHub stars](https://img.shields.io/github/stars/gaborkolozsy/test.svg?style=social&label=Star)](https://github.com/gaborkolozsy/test)
 [![GitHub forks](https://img.shields.io/github/forks/gaborkolozsy/test.svg?style=social&label=Fork)](https://github.com/gaborkolozsy/test)
