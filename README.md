@@ -3,6 +3,7 @@
 [![GitHub release](https://img.shields.io/github/release/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test)
 [![GitHub tag](https://img.shields.io/github/tag/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test)
 [![GitHub commits](https://img.shields.io/github/commits-since/gaborkolozsy/test/v0.1.0-M1.001.svg)](https://github.com/gaborkolozsy/test)
+[![GitHub issues](https://img.shields.io/github/issues/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test/issues)
 ---
 
 Only for testing
