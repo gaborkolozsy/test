@@ -1,7 +1,7 @@
 # test
 
 [![GitHub release](https://img.shields.io/github/release/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test/release)
-[![GitHub tag](https://img.shields.io/github/tag/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test/tag)
+[![GitHub tag](https://img.shields.io/github/tag/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test/tags)
 [![GitHub commits](https://img.shields.io/github/commits-since/gaborkolozsy/test/v0.1.0-M1.svg)](https://github.com/gaborkolozsy/test/commits)
 [![GitHub issues](https://img.shields.io/github/issues/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test/issues)
 [![GitHub contributors](https://img.shields.io/github/contributors/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test/graphs/contributors)
