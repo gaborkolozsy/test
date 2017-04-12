@@ -10,7 +10,10 @@
 [![Libraries.io for GitHub](https://img.shields.io/librariesio/github/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test)
 [![license](https://img.shields.io/github/license/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test/blob/develop/LICENSE)
 <br>
-[![Code Climate](https://img.shields.io/codeclimate/github/gaborkolozsy/test.svg)](https://codeclimate.com/github/gaborkolozsy/test)
+[![Code Climate](https://codeclimate.com/repos/58ee2fc44867130270001888/badges/252354cb8e845841e8ae/gpa.svg)](https://codeclimate.com/repos/58ee2fc44867130270001888/feed)
+[![Code Climate](https://img.shields.io/codeclimate/github/gaborkolozsy/test.svg)](https://codeclimate.com/repos/58ee2fc44867130270001888/feed)
+[![Test Coverage](https://codeclimate.com/repos/58ee2fc44867130270001888/badges/252354cb8e845841e8ae/coverage.svg)](https://codeclimate.com/repos/58ee2fc44867130270001888/coverage)
+[![Issue Count](https://codeclimate.com/repos/58ee2fc44867130270001888/badges/252354cb8e845841e8ae/issue_count.svg)](https://codeclimate.com/repos/58ee2fc44867130270001888/feed)
 <br>
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/gitterHQ/developers?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 [![Join the chat at https://gitter.im/gitterHQ/developers](https://badges.gitter.im/join%20chat.svg)](https://gitter.im/gitterHQ/developers?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
