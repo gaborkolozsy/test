@@ -4,7 +4,7 @@
 [![GitHub tag](https://img.shields.io/github/tag/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test/tag)
 [![GitHub commits](https://img.shields.io/github/commits-since/gaborkolozsy/test/v0.1.0-M1.svg)](https://github.com/gaborkolozsy/test/commits)
 [![GitHub issues](https://img.shields.io/github/issues/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test/issues)
-[![GitHub contributors](https://img.shields.io/github/contributors/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test/graphs/contributors)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test/pulls?q=is%3Apr+is%3Aopen)
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test/pulls?q=is%3Apr+is%3Aclosed)
 [![license](https://img.shields.io/github/license/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test/blob/develop/LICENSE)
