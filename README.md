@@ -23,12 +23,12 @@
 [![GitHub followers](https://img.shields.io/github/followers/gaborkolozsy.svg?style=social&label=Follow)](https://github.com/gaborkolozsy/followers)
 
 Only for testing.
-Just try the footer position.
+
 * [Content](#title)
   * [Another](#test)
 
 ## title
-Something come here
+Just try the footer position.
 
 # &nbsp;
 <br>
