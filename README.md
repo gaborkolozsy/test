@@ -13,7 +13,7 @@
 <br>
 [![GitHub watchers](https://img.shields.io/github/watchers/gaborkolozsy/test.svg?style=social&label=Watch)](https://github.com/gaborkolozsy/test/watchers)
 [![GitHub stars](https://img.shields.io/github/stars/gaborkolozsy/test.svg?style=social&label=Star)](https://github.com/gaborkolozsy/test/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/gaborkolozsy/test.svg?style=social&label=Fork)](https://github.com/gaborkolozsy/test/forks)
+[![GitHub forks](https://img.shields.io/github/forks/gaborkolozsy/test.svg?style=social&label=Fork)](https://github.com/gaborkolozsy/test/network)
 [![GitHub followers](https://img.shields.io/github/followers/gaborkolozsy.svg?style=social&label=Follow)](https://github.com/gaborkolozsy/followers)
 ---
 
