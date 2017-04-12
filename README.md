@@ -11,8 +11,7 @@
 [![license](https://img.shields.io/github/license/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test/blob/develop/LICENSE)
 <br>
 [![Code Climate](https://codeclimate.com/github/gaborkolozsy/TimeClock-Spring/badges/gpa.svg)](https://codeclimate.com/gaborkolozsy/TimeClock-Spring)
-[![Code Climate](https://img.shields.io/codeclimate/github/gaborkolozsy/TimeClock-Spring.svg)](https://codeclimate.com/gaborkolozsy/TimeClock-Spring)
-[![Test Coverage](https://codeclimate.com/repos/58ee2fc44867130270001888/badges/252354cb8e845841e8ae/coverage.svg)](https://codeclimate.com/repos/58ee2fc44867130270001888/coverage)
+[![Test Coverage](https://codeclimate.com/github/gaborkolozsy/TimeClock-Spring/badges/coverage.svg)](https://codeclimate.com/github/gaborkolozsy/TimeClock-Spring/coverage)
 [![Issue Count](https://codeclimate.com/github/gaborkolozsy/TimeClock-Spring/badges/issue_count.svg)](https://codeclimate.com/github/gaborkolozsy/TimeClock-Spring)
 <br>
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/gitterHQ/developers?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
