@@ -7,7 +7,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test/contributors)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test/pulls?q=is%3Apr+is%3Aopen)
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test/pulls?q=is%3Apr+is%3Aclosed)
-[![license](https://img.shields.io/github/license/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test/license)
+[![license](https://img.shields.io/github/license/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test/blob/develop/LICENSE)
 <br>
 [![Code Climate](https://img.shields.io/codeclimate/github/gaborkolozsy/test.svg)](https://codeclimate.com/github/gaborkolozsy/test)
 <br>
