@@ -13,6 +13,7 @@
 [![Code Climate](https://img.shields.io/codeclimate/github/gaborkolozsy/test.svg)](https://codeclimate.com/github/gaborkolozsy/test)
 <br>
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/easymd/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+[![Join the chat at https://gitter.im/easymd/Lobby](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/easymd/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 <br>
 [![GitHub watchers](https://img.shields.io/github/watchers/gaborkolozsy/test.svg?style=social&label=Watch)](https://github.com/gaborkolozsy/test/watchers)
 [![GitHub stars](https://img.shields.io/github/stars/gaborkolozsy/test.svg?style=social&label=Star)](https://github.com/gaborkolozsy/test/stargazers)
