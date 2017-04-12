@@ -12,7 +12,7 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/gaborkolozsy/test.svg?style=social&label=Watch)](https://github.com/gaborkolozsy/test)
 [![GitHub stars](https://img.shields.io/github/stars/gaborkolozsy/test.svg?style=social&label=Star)](https://github.com/gaborkolozsy/test)
 [![GitHub forks](https://img.shields.io/github/forks/gaborkolozsy/test.svg?style=social&label=Fork)](https://github.com/gaborkolozsy/test)
-[![GitHub followers](https://img.shields.io/github/followers/gaborkolozsy.svg?style=social&label=Follow)](https://github.com/gaborkolozsy/test)
+[![GitHub followers](https://img.shields.io/github/followers/gaborkolozsy.svg?style=social&label=Follow)](https://github.com/gaborkolozsy)
 ---
 
 Only for testing
