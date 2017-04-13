@@ -1,4 +1,4 @@
-# test
+# TimeClock-Spring
 
 [![GitHub release](https://img.shields.io/github/release/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test/releases)
 [![GitHub tag](https://img.shields.io/github/tag/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test/tags)
