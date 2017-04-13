@@ -1,5 +1,14 @@
 # TimeClock-Spring
 
+[![Language](https://img.shields.io/badge/Language-Java-red.svg?colorB=b07219)]()
+[![Framework](https://img.shields.io/badge/Framework-Spring-green.svg?colorB=6db33f)]()
+[![API](https://img.shields.io/badge/API-JPA&nbsp;|&nbsp;Hibernate-red.svg)]()
+[![Build Tool](https://img.shields.io/badge/Build-Maven-blue.svg)]()
+[![Database](https://img.shields.io/badge/DB-H2-yellow.svg)]()
+[![Design Patterns](https://img.shields.io/badge/Design&nbsp;Pattern-DAO&nbsp;|&nbsp;Builder-orange.svg)]()
+<br>
+[![View on GitHub page](https://img.shields.io/badge/View%20on-GitHub%20page-orange.svg)](https://gaborkolozsy.github.io/TimeClock-Spring/)
+<br>
 [![GitHub release](https://img.shields.io/github/release/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test/releases)
 [![GitHub tag](https://img.shields.io/github/tag/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test/tags)
 [![GitHub commits](https://img.shields.io/github/commits-since/gaborkolozsy/test/v0.1.0-M2.svg)](https://github.com/gaborkolozsy/test/commits)
