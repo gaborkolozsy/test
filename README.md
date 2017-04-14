@@ -27,6 +27,10 @@
 	<sup><strong>Information about me on <a href="https://www.linkedin.com/in/g%C3%A1bor-kolozsy-950484115/">LinkedIn</a> | <a href="https://github.com/gaborkolozsy/">@gaborkolozsy</a></strong></sup>
 </p>
 
+<p align="center">
+	<img src="https://img.shields.io/badge/LinkedIn-@gaborkolozsy-red.svg?colorA=0077b5&colorB=b07219&link=http://www.linkedin.com/in/g%C3%A1bor-kolozsy-950484115/&link=http://https://github.com/gaborkolozsy/">
+</p>
+
 ## Content of table
 
 * [Language & Framework badges](#language-framework-etc)
@@ -97,7 +101,7 @@
 	</a>
 	<p align="center">
 		<a href="https://github.com/gaborkolozsy">
-  			<img src="https://github.com/gaborkolozsy/test/blob/develop/buba.png" width="150"> 
+  			<img src="https://github.com/gaborkolozsy/test/blob/develop/buba.png" width="130"> 
 			<!--strong>@gaborkolozsy</strong-->
 		</a>
 	</p>
