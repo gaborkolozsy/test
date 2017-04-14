@@ -30,11 +30,11 @@
 ## Content of table
 
 * [Language & Framework badges](#language-framework-etc)
-* [Watch on GitHub page badge](#custom-badge-to-github-page)
-* [Project details badges](#github-project-details-badges)
+* [GitHub project details badges](#github-project-details-badges)
 * [CodeClimate badges](#codeclimate-badges)
-* [Chat badges](#chat)
-* [GitHub Social badges](#github-social-badges)
+* [Chat badges](#chat-badges)
+* [GitHub social badges](#github-social-badges)
+* [GitHub page badge](#github-page-badge)
 * [License](LICENSE)
 
 ## Language, framework etc.
@@ -64,12 +64,12 @@
 [![Test Coverage](https://codeclimate.com/github/gaborkolozsy/TimeClock-Spring/badges/coverage.svg)](https://codeclimate.com/github/gaborkolozsy/TimeClock-Spring/coverage)
 [![Issue Count](https://codeclimate.com/github/gaborkolozsy/TimeClock-Spring/badges/issue_count.svg)](https://codeclimate.com/github/gaborkolozsy/TimeClock-Spring)
 
-## Chat
+## Chat badges
 
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/gitterHQ/developers?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 [![Join the chat at https://gitter.im/gitterHQ/developers](https://badges.gitter.im/join%20chat.svg)](https://gitter.im/gitterHQ/developers?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
-## Custom badge to GitHub page
+## GitHub page badge
 
 [![Watch on GitHub page](https://img.shields.io/badge/Watch%20on-GitHub%20page-orange.svg)](https://gaborkolozsy.github.io/TimeClock-Spring/)
 
