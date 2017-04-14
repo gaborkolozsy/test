@@ -6,6 +6,13 @@
 </p>
 
 <p align="center">
+	<a href="https://github.com/gaborkolozsy/test/">
+		<img src="https://github.com/gaborkolozsy/test/blob/develop/AlwaysLearn-red.png"
+			width="200">
+	</a>
+</p>
+
+<p align="center">
 	<a href="https://travis-ci.org/gaborkolozsy/TimeClock-Spring">
 		<img src="https://travis-ci.org/gaborkolozsy/TimeClock-Spring.svg">
 	</a>
