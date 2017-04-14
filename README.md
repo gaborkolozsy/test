@@ -1,7 +1,7 @@
 <p align="center">
 	<a href="https://github.com/gaborkolozsy/test/">
 		<img src="https://github.com/gaborkolozsy/test/blob/develop/TimeClock.png"
-			width="300">
+			width="400">
 	</a>
 </p>
 
@@ -23,15 +23,19 @@
 	</a>
 </p>
 
+<p align="center">
+	<sup><strong>More information about me on <a href="https://www.linkedin.com/in/g%C3%A1bor-kolozsy-950484115/">LinkedIn</a> | <a href="https://github.com/gaborkolozsy/">@gaborkolozsy</a></strong></sup>
+</p>
+
 ## Content of table
 
-* [Language & Framework badges](#language, framework etc.)
-* [Watch on GitHub page badge](#custom badge to github page.)
-* [Project details badges](#github project details badges.)
-* [CodeClimate badges](#codeclimate badges.)
+* [Language & Framework badges](#language-framework-etc)
+* [Watch on GitHub page badge](#custom-badge-to-github-page)
+* [Project details badges](#github-project-details-badges)
+* [CodeClimate badges](#codeclimate-badges)
 * [Chat badges](#chat)
-* [GitHub Social badges](#github social badges.)
-* [Footer](#&nbsp;)
+* [GitHub Social badges](#github-social-badges)
+* [License](LICENSE)
 
 ## Language, framework etc.
 
@@ -41,10 +45,6 @@
 [![Build Tool](https://img.shields.io/badge/Build-Maven-blue.svg)]()
 [![Database](https://img.shields.io/badge/DB-H2-yellow.svg)]()
 [![Design Patterns](https://img.shields.io/badge/Design&nbsp;Pattern-DAO&nbsp;|&nbsp;Builder-orange.svg)]()
-
-## Custom badge to GitHub page
-
-[![View on GitHub page](https://img.shields.io/badge/Watch%20on-GitHub%20page-orange.svg)](https://gaborkolozsy.github.io/TimeClock-Spring/)
 
 ## GitHub project details badges
 
@@ -68,6 +68,10 @@
 
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/gitterHQ/developers?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 [![Join the chat at https://gitter.im/gitterHQ/developers](https://badges.gitter.im/join%20chat.svg)](https://gitter.im/gitterHQ/developers?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+
+## Custom badge to GitHub page
+
+[![Watch on GitHub page](https://img.shields.io/badge/Watch%20on-GitHub%20page-orange.svg)](https://gaborkolozsy.github.io/TimeClock-Spring/)
 
 ## GitHub social badges
 
