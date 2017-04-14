@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/LinkedIn-@gaborkolozsy-red.svg?style=social&link=http://www.linkedin.com/in/g%C3%A1bor-kolozsy-950484115/&link=http://https://github.com/gaborkolozsy/">
+	<img src="https://img.shields.io/badge/LinkedIn-@gaborkolozsy-red.svg?style=social&link=https://www.linkedin.com/in/g%C3%A1bor-kolozsy-950484115&link=https://github.com/gaborkolozsy/">
 </p>
 
 ## Content of table
