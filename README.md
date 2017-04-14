@@ -1,4 +1,39 @@
-# TimeClock-Spring
+<p align="center">
+	<a href="https://github.com/gaborkolozsy/test/">
+		<img src="https://github.com/gaborkolozsy/test/blob/develop/TimeClock.png"
+			width="300">
+	</a>
+</p>
+
+<p align="center">
+	<a href="https://travis-ci.org/gaborkolozsy/TimeClock-Spring">
+		<img src="https://travis-ci.org/gaborkolozsy/TimeClock-Spring.svg">
+	</a>
+	<a href="https://www.codacy.com/app/gaborkolozsy/TimeClock-Spring?utm_source=github.com&utm_medium=referral&utm_content=gaborkolozsy/TimeClock-Spring&utm_campaign=badger">
+		<img src="https://api.codacy.com/project/badge/Grade/a67ecdc7f6204e69b24b541e08df2bcd">
+	</a>
+	<a href="https://www.codacy.com/app/gaborkolozsy/TimeClock-Spring">
+		<img src="https://img.shields.io/codacy/grade/a67ecdc7f6204e69b24b541e08df2bcd.svg">
+	</a>
+	<a href="https://codeclimate.com/github/gaborkolozsy/TimeClock-Spring">
+		<img src="https://codeclimate.com/github/gaborkolozsy/TimeClock-Spring/badges/gpa.svg">
+	</a>
+	<a href="https://codeclimate.com/github/gaborkolozsy/TimeClock-Spring">
+		<img src="https://codeclimate.com/github/gaborkolozsy/TimeClock-Spring/badges/issue_count.svg">
+	</a>
+</p>
+
+## Content of table
+
+* [Language & Framework badges](#language, framework etc.)
+* [Watch on GitHub page badge](#custom badge to github page.)
+* [Project details badges](#github project details badges.)
+* [CodeClimate badges](#codeclimate badges.)
+* [Chat badges](#chat)
+* [GitHub Social badges](#github social badges.)
+* [Footer](#&nbsp;)
+
+## Language, framework etc.
 
 [![Language](https://img.shields.io/badge/Language-Java-red.svg?colorB=b07219)]()
 [![Framework](https://img.shields.io/badge/Framework-Spring-green.svg?colorB=6db33f)]()
@@ -6,9 +41,13 @@
 [![Build Tool](https://img.shields.io/badge/Build-Maven-blue.svg)]()
 [![Database](https://img.shields.io/badge/DB-H2-yellow.svg)]()
 [![Design Patterns](https://img.shields.io/badge/Design&nbsp;Pattern-DAO&nbsp;|&nbsp;Builder-orange.svg)]()
-<br>
-[![View on GitHub page](https://img.shields.io/badge/View%20on-GitHub%20page-orange.svg)](https://gaborkolozsy.github.io/TimeClock-Spring/)
-<br>
+
+## Custom badge to GitHub page
+
+[![View on GitHub page](https://img.shields.io/badge/Watch%20on-GitHub%20page-orange.svg)](https://gaborkolozsy.github.io/TimeClock-Spring/)
+
+## GitHub project details badges
+
 [![GitHub release](https://img.shields.io/github/release/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test/releases)
 [![GitHub tag](https://img.shields.io/github/tag/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test/tags)
 [![GitHub commits](https://img.shields.io/github/commits-since/gaborkolozsy/test/v0.1.0-M2.svg)](https://github.com/gaborkolozsy/test/commits)
@@ -18,26 +57,24 @@
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test/pulls?q=is%3Apr+is%3Aclosed)
 [![Libraries.io for GitHub](https://img.shields.io/librariesio/github/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test)
 [![license](https://img.shields.io/github/license/gaborkolozsy/test.svg)](https://github.com/gaborkolozsy/test/blob/develop/LICENSE)
-<br>
+
+## CodeClimate badges
+
 [![Code Climate](https://codeclimate.com/github/gaborkolozsy/TimeClock-Spring/badges/gpa.svg)](https://codeclimate.com/gaborkolozsy/TimeClock-Spring)
 [![Test Coverage](https://codeclimate.com/github/gaborkolozsy/TimeClock-Spring/badges/coverage.svg)](https://codeclimate.com/github/gaborkolozsy/TimeClock-Spring/coverage)
 [![Issue Count](https://codeclimate.com/github/gaborkolozsy/TimeClock-Spring/badges/issue_count.svg)](https://codeclimate.com/github/gaborkolozsy/TimeClock-Spring)
-<br>
+
+## Chat
+
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/gitterHQ/developers?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 [![Join the chat at https://gitter.im/gitterHQ/developers](https://badges.gitter.im/join%20chat.svg)](https://gitter.im/gitterHQ/developers?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
-<br>
+
+## GitHub social badges
+
 [![GitHub watchers](https://img.shields.io/github/watchers/gaborkolozsy/test.svg?style=social&label=Watch)](https://github.com/gaborkolozsy/test/watchers)
 [![GitHub stars](https://img.shields.io/github/stars/gaborkolozsy/test.svg?style=social&label=Star)](https://github.com/gaborkolozsy/test/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/gaborkolozsy/test.svg?style=social&label=Fork)](https://github.com/gaborkolozsy/test/network)
 [![GitHub followers](https://img.shields.io/github/followers/gaborkolozsy.svg?style=social&label=Follow)](https://github.com/gaborkolozsy/followers)
-
-Only for testing.
-
-* [Content](#title)
-  * [Another](#test)
-
-## title
-Just try the footer position.
 
 # &nbsp;
 <br>
@@ -52,7 +89,7 @@ Just try the footer position.
 		<img src="https://img.shields.io/github/forks/gaborkolozsy/test.svg?style=social&label=Fork">
 	</a>
 	<a href="https://github.com/gaborkolozsy/test/blob/develop/LICENSE">
-	  		<img align="right" src="https://img.shields.io/github/license/gaborkolozsy/test.svg">
+	  	<img align="right" src="https://img.shields.io/github/license/gaborkolozsy/test.svg">
 	</a>
 	<p align="center">
 		<a href="https://github.com/gaborkolozsy">
