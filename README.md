@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="https://github.com/gaborkolozsy/test/">
-		<img src="https://github.com/gaborkolozsy/test/blob/develop/TimeClock-thin.png"
+		<img src="https://github.com/gaborkolozsy/test/blob/develop/timeclock-red.png"
 			width="400">
 	</a>
 </p>
