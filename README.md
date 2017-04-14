@@ -106,7 +106,7 @@
 	</a>
 	<p align="center">
 		<a href="https://github.com/gaborkolozsy">
-  			<img src="https://github.com/gaborkolozsy/test/blob/develop/buba.png" width="130"> 
+  			<img src="https://github.com/gaborkolozsy/test/blob/develop/gabor-balckEarth.png" width="130"> 
 		</a>
 	</p>
 </p>
