@@ -28,7 +28,9 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/LinkedIn-@gaborkolozsy-red.svg?style=social&link=https://www.linkedin.com/in/g%C3%A1bor-kolozsy-950484115&link=https://github.com/gaborkolozsy/">
+	<a href="https://www.linkedin.com/in/g%C3%A1bor-kolozsy-950484115">
+		<img src="https://img.shields.io/badge/LinkedIn-@gaborkolozsy-red.svg?style=social">
+	</a>
 </p>
 
 ## Content of table
@@ -96,18 +98,15 @@
 	<a href="https://github.com/gaborkolozsy/test/network">
 		<img src="https://img.shields.io/github/forks/gaborkolozsy/test.svg?style=social&label=Fork">
 	</a>
+	<a href="https://github.com/gaborkolozsy/followers">
+		<img src="https://img.shields.io/github/followers/gaborkolozsy.svg?style=social&label=Follow">
+	</a>
 	<a href="https://github.com/gaborkolozsy/test/blob/develop/LICENSE">
 	  	<img align="right" src="https://img.shields.io/github/license/gaborkolozsy/test.svg">
 	</a>
 	<p align="center">
 		<a href="https://github.com/gaborkolozsy">
   			<img src="https://github.com/gaborkolozsy/test/blob/develop/buba.png" width="130"> 
-			<!--strong>@gaborkolozsy</strong-->
-		</a>
-	</p>
-	<p align="center">
-		<a href="https://github.com/gaborkolozsy/followers">
-			<img src="https://img.shields.io/github/followers/gaborkolozsy.svg?style=social&label=Follow">
 		</a>
 	</p>
 </p>
