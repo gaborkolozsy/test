@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-	<sup><strong>More information about me on <a href="https://www.linkedin.com/in/g%C3%A1bor-kolozsy-950484115/">LinkedIn</a> | <a href="https://github.com/gaborkolozsy/">@gaborkolozsy</a></strong></sup>
+	<sup><strong>Information about me on <a href="https://www.linkedin.com/in/g%C3%A1bor-kolozsy-950484115/">LinkedIn</a> | <a href="https://github.com/gaborkolozsy/">@gaborkolozsy</a></strong></sup>
 </p>
 
 ## Content of table
@@ -33,8 +33,8 @@
 * [GitHub project details badges](#github-project-details-badges)
 * [CodeClimate badges](#codeclimate-badges)
 * [Chat badges](#chat-badges)
-* [GitHub social badges](#github-social-badges)
 * [GitHub page badge](#github-page-badge)
+* [GitHub social badges](#github-social-badges)
 * [License](LICENSE)
 
 ## Language, framework etc.
@@ -97,7 +97,8 @@
 	</a>
 	<p align="center">
 		<a href="https://github.com/gaborkolozsy">
-  			<strong>@gaborkolozsy</strong>
+  			<img src="https://github.com/gaborkolozsy/test/blob/develop/buba.png" width="150"> 
+			<!--strong>@gaborkolozsy</strong-->
 		</a>
 	</p>
 	<p align="center">
