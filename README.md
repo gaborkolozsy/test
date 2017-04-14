@@ -1,13 +1,13 @@
 <p align="center">
 	<a href="https://github.com/gaborkolozsy/test/">
-		<img src="https://github.com/gaborkolozsy/test/blob/develop/timeclock-red.png"
+		<img src="https://github.com/gaborkolozsy/test/blob/master/timeclock-red.png"
 			width="400">
 	</a>
 </p>
 
 <p align="center">
 	<a href="https://github.com/gaborkolozsy/test/">
-		<img src="https://github.com/gaborkolozsy/test/blob/develop/AlwaysLearn-red.png"
+		<img src="https://github.com/gaborkolozsy/test/blob/master/AlwaysLearn-red.png"
 			width="200">
 	</a>
 </p>
@@ -113,7 +113,7 @@
 	</a>
 	<p align="center">
 		<a href="https://github.com/gaborkolozsy">
-  			<img src="https://github.com/gaborkolozsy/test/blob/develop/gaborkolozsy-blue.png" width="130"> 
+  			<img src="https://github.com/gaborkolozsy/test/blob/master/gaborkolozsy-blue.png" width="130"> 
 		</a>
 	</p>
 </p>
