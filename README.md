@@ -41,7 +41,7 @@
 	<a href="https://www.linkedin.com/in/g%C3%A1bor-kolozsy-950484115">
 		<img src="https://img.shields.io/badge/Linked-In-red.svg?colorA=000000&colorB=0077b5">
 	</a>
-	<a href="https://www.linkedin.com/in/g%C3%A1bor-kolozsy-950484115">
+	<a href="https://github.com/gaborkolozsy/">
 		<img src="https://img.shields.io/badge/@-gaborkolozsy-red.svg?colorA=0366d6&colorB=0366d6">
 	</a>
 </p>
