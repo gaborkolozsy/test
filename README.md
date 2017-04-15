@@ -113,7 +113,7 @@
 	</a>
 	<p align="center">
 		<a href="https://github.com/gaborkolozsy">
-  			<img src="https://github.com/gaborkolozsy/test/blob/master/gaborkolozsy-blue.png" width="130"> 
+  			<img src="https://cloud.githubusercontent.com/assets/23102020/25062423/232cdb6c-21cc-11e7-81cd-c8409e96dae1.png" width="50"> 
 		</a>
 	</p>
 </p>
