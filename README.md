@@ -1,4 +1,10 @@
 <p align="center">
+	<a href="https://gaborkolozsy.github.io/TimeClock-Spring/">
+		<img src="https://img.shields.io/badge/Watch%20On-GitHub%20Page-orange.svg">
+	</a>
+</p>
+
+<p align="center">
 	<a href="https://github.com/gaborkolozsy/test/">
 		<img src="https://cloud.githubusercontent.com/assets/23102020/25062346/144c4fd4-21cb-11e7-8446-447d7e89a640.png"
 			width="400">
@@ -90,7 +96,7 @@
 
 ## GitHub page badge
 
-[![Watch on GitHub page](https://img.shields.io/badge/Watch%20on-GitHub%20page-orange.svg)](https://gaborkolozsy.github.io/TimeClock-Spring/)
+[![Watch on GitHub page](https://img.shields.io/badge/Watch%20On-GitHub%20Page-orange.svg)](https://gaborkolozsy.github.io/TimeClock-Spring/)
 
 ## GitHub social badges
 
