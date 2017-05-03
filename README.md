@@ -68,6 +68,7 @@
 [![Framework](https://img.shields.io/badge/Framework-Spring-green.svg?colorB=6db33f)]()
 [![API](https://img.shields.io/badge/API-JPA&nbsp;|&nbsp;Hibernate-red.svg)]()
 [![Build Tool](https://img.shields.io/badge/Build-Maven-blue.svg)]()
+[![Test](https://img.shields.io/badge/Test&nbsp;Frameworks-JUnit&nbsp;|&nbsp;Mockito-orange.svg)]()
 [![Database](https://img.shields.io/badge/DB-H2-yellow.svg)]()
 [![Design Patterns](https://img.shields.io/badge/Design&nbsp;Pattern-DAO&nbsp;|&nbsp;Builder-orange.svg)]()
 
